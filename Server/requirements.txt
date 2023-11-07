@@ -1,0 +1,14 @@
+blinker
+click
+Flask
+importlib-metadata
+itsdangerous
+Jinja2
+MarkupSafe
+pip
+setuptools
+Werkzeug
+wheel
+zipp
+opencv-python
+pytesseract
