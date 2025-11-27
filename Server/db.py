@@ -1,6 +1,5 @@
 import firebase_admin
 from firebase_admin import credentials, firestore
-from firebase_admin import firestore
 
 cred = credentials.Certificate("parking-system-fc488-firebase-adminsdk-q60m6-1b199aeb07.json")
 firebase_admin.initialize_app(cred)
